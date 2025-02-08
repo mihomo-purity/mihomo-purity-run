@@ -1,3 +1,3 @@
-module mihomo-party-run
+module mihomo-purity-run
 
 go 1.20
